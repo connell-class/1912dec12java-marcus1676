@@ -699,6 +699,7 @@ public class EvaluationServiceTest {
 	@Test
 	public void testSingleSubtraction() {
 		assertEquals(16, evaluationService.solveWordProblem("What is 4 minus -12?"));
+		
 	}
 
 	@Test
